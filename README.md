@@ -31,8 +31,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Anurag's GitHub stats](https://github-readme-stats-finnlandish.vercel.app/api?username=anuraghazra)](https://github.com/finnlandish/github-readme-stats)
-  
-
+[![Anurag's GitHub stats](https://github-readme-stats-finnlandish.vercel.app/api?username=finnlandish)](https://github.com/finnlandish/github-readme-stats)
 </details>
 
