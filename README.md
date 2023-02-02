@@ -29,5 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finnlandish&show_icons=true&locale=en" alt="finnlandish" /></p>
 <br />
 <br />
+<br />
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finnlandish&" alt="finnlandish" /></p>
 </details>
