@@ -36,7 +36,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnlandish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=finnlandish)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
