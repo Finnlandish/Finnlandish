@@ -31,13 +31,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <a href="https://github.com/finnlandish/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=finnlandish&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/finnlandish/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=finnlandish&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats-finnlandish.vercel.app/api?username=anuraghazra)](https://github.com/finnlandish/github-readme-stats)
+  
 
 </details>
 
