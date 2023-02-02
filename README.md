@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finnlandish&label=Profile%20views&color=0e75b6&style=flat" alt="finnlandish" /> </p>
 
 
+- 🌱 I’m currently learning **react, node, python, c# and mongoDB**
 
-- 🌱 I’m currently learning **react, node, python and c#**
-
-
-- ⚡ Fun fact **i like drawing, baking and photographie**
+- ⚡ Fun fact **i like drawing, baking and photography**
 
 - 📫 How to reach me **simpson.finnegan@gmail.com**
 
