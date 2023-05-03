@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
-<h3 align="center">A passionate Student in Computer Science</h3>
+<h3 align="center">A passionate Student in Computer Science from Montreal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=finnlandish&label=Profile%20views&color=0e75b6&style=flat" alt="finnlandish" /> </p>
 
 
 - 🌱 I’m currently learning **react, node, python and c#**
