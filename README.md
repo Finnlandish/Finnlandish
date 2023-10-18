@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
-<h3 align="center">A passionate Student in Computer Science from Montreal</h3>
+<h3 align="center">programmer from Montreal</h3>
 
 
 
